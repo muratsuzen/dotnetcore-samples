@@ -1,2 +1,2 @@
-# dotnetcore-samples
-.NET Core ile yaptığım alıştırmalar.
+# .NET Core Örnekleri
+.NET Core ile yaptığım alıştırmaları içermektedir.
