@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EXfLpWoGl3oazBmcmxxqzXXC5gwdhVVZQEJLWQHT8/4Nyr2SrpC1+xqKQ8rJxyUD3TKVbw1c94OFU/oujXqz6w==",
+  "dgSpecHash": "qYmPq8go/PIPkk5kkoUcNEYG+q1KLGqrKQ5x2C/9npbbbvf63XOUwZuMbF5PeWGuyDjacRcNGbDPzYsaRDXSSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Business\\reppat.Business.csproj",
+  "projectFilePath": "C:\\Users\\msuzen\\fork\\dotnetcore-samples\\reppat\\reppat.Business\\reppat.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

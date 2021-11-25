@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AbvT5N6kUrQYbINDweab5Ed+EKHvd09fRWl8gtpkmuhp1Cn+Q+7d9E89up8tFWWX3aNHKyy24A/vk5wSWiyCLg==",
+  "dgSpecHash": "0xQ8htAVzDE0qjP42peAvUZBRphvnk1ifsGcY56Uj+sinfaYNMYQ30xwzsgrUu1hDVONyC5ea0tkA4mu5p5GSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.WebAPI\\reppat.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\msuzen\\fork\\dotnetcore-samples\\reppat\\reppat.WebAPI\\reppat.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msuzen\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

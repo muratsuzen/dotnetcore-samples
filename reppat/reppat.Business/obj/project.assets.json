@@ -1829,11 +1829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Business\\reppat.Business.csproj",
+      "projectUniqueName": "C:\\Users\\msuzen\\fork\\dotnetcore-samples\\reppat\\reppat.Business\\reppat.Business.csproj",
       "projectName": "reppat.Business",
-      "projectPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Business\\reppat.Business.csproj",
+      "projectPath": "C:\\Users\\msuzen\\fork\\dotnetcore-samples\\reppat\\reppat.Business\\reppat.Business.csproj",
       "packagesPath": "C:\\Users\\msuzen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Business\\obj\\",
+      "outputPath": "C:\\Users\\msuzen\\fork\\dotnetcore-samples\\reppat\\reppat.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
@@ -1857,8 +1857,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.DataAccess\\reppat.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.DataAccess\\reppat.DataAccess.csproj"
+            "C:\\Users\\msuzen\\fork\\dotnetcore-samples\\reppat\\reppat.DataAccess\\reppat.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\msuzen\\fork\\dotnetcore-samples\\reppat\\reppat.DataAccess\\reppat.DataAccess.csproj"
             }
           }
         }

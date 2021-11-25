@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YlNTzAa2pvoM9GTI5XWOmH6wciO4AQxm6fG0a1M3M8FaPnGOFWKym6lWe/PSBr4OZGulh17WtAKpFpKINxLBaw==",
+  "dgSpecHash": "YlSWgynx2fYiy7fUACS4DAebOkdKD66cxlFr17WNid8nH7x1dsNYYE1Yqc6k09LxVZP/gJIgkr2hur4d13wkEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Core\\reppat.Core.csproj",
+  "projectFilePath": "C:\\Users\\msuzen\\fork\\dotnetcore-samples\\reppat\\reppat.Core\\reppat.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LgNE90nS97PdToji5043gs64rhf17skf05VT/LBE/zsDbn6QZlnO+x2jebXRYbVInWWyYkyZk3EIWtE/5/w+YA==",
+  "dgSpecHash": "GEa+w1/3an25citxBMXLDDtqkjnD+o+6tjzP8og+H1u5Gr1ierjb4kTzS08hWKO/9XUPox0H/QzO643g2jsEFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.DataAccess\\reppat.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\msuzen\\fork\\dotnetcore-samples\\reppat\\reppat.DataAccess\\reppat.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msuzen\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

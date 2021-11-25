@@ -17,3 +17,22 @@ C:\Users\msuzen\Documents\Visual Studio 2019\Projects\Examples\reppat\reppat.Bus
 C:\Users\msuzen\Documents\Visual Studio 2019\Projects\Examples\reppat\reppat.Business\obj\Debug\net6.0\reppat.Business.dll
 C:\Users\msuzen\Documents\Visual Studio 2019\Projects\Examples\reppat\reppat.Business\obj\Debug\net6.0\ref\reppat.Business.dll
 C:\Users\msuzen\Documents\Visual Studio 2019\Projects\Examples\reppat\reppat.Business\obj\Debug\net6.0\reppat.Business.pdb
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\bin\Debug\net6.0\reppat.Business.deps.json
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\bin\Debug\net6.0\reppat.Business.dll
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\bin\Debug\net6.0\ref\reppat.Business.dll
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\bin\Debug\net6.0\reppat.Business.pdb
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\bin\Debug\net6.0\reppat.Core.dll
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\bin\Debug\net6.0\reppat.DataAccess.dll
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\bin\Debug\net6.0\reppat.Entities.dll
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\bin\Debug\net6.0\reppat.DataAccess.pdb
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\bin\Debug\net6.0\reppat.Core.pdb
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\bin\Debug\net6.0\reppat.Entities.pdb
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\obj\Debug\net6.0\reppat.Business.csproj.AssemblyReference.cache
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\obj\Debug\net6.0\reppat.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\obj\Debug\net6.0\reppat.Business.AssemblyInfoInputs.cache
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\obj\Debug\net6.0\reppat.Business.AssemblyInfo.cs
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\obj\Debug\net6.0\reppat.Business.csproj.CoreCompileInputs.cache
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\obj\Debug\net6.0\reppat.Business.csproj.CopyComplete
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\obj\Debug\net6.0\reppat.Business.dll
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\obj\Debug\net6.0\ref\reppat.Business.dll
+C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Business\obj\Debug\net6.0\reppat.Business.pdb

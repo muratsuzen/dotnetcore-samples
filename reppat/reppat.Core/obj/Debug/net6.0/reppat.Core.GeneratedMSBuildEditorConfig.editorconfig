@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = reppat.Core
-build_property.ProjectDir = C:\Users\msuzen\Documents\Visual Studio 2019\Projects\Examples\reppat\reppat.Core\
+build_property.ProjectDir = C:\Users\msuzen\fork\dotnetcore-samples\reppat\reppat.Core\
