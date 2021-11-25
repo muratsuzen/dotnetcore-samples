@@ -1,0 +1,372 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.WebAPI\\reppat.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Business\\reppat.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Business\\reppat.Business.csproj",
+        "projectName": "reppat.Business",
+        "projectPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Business\\reppat.Business.csproj",
+        "packagesPath": "C:\\Users\\msuzen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\msuzen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/2QQd5ibagQ9Y7dQGWBfIaBQ3xHpdjfqkS2GPoCM6SZH1HIHzTX/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.DataAccess\\reppat.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.DataAccess\\reppat.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Core\\reppat.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Core\\reppat.Core.csproj",
+        "projectName": "reppat.Core",
+        "projectPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Core\\reppat.Core.csproj",
+        "packagesPath": "C:\\Users\\msuzen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\msuzen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/2QQd5ibagQ9Y7dQGWBfIaBQ3xHpdjfqkS2GPoCM6SZH1HIHzTX/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.DataAccess\\reppat.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.DataAccess\\reppat.DataAccess.csproj",
+        "projectName": "reppat.DataAccess",
+        "projectPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.DataAccess\\reppat.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\msuzen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\msuzen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/2QQd5ibagQ9Y7dQGWBfIaBQ3xHpdjfqkS2GPoCM6SZH1HIHzTX/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Core\\reppat.Core.csproj": {
+                "projectPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Core\\reppat.Core.csproj"
+              },
+              "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Entities\\reppat.Entities.csproj": {
+                "projectPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Entities\\reppat.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Entities\\reppat.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Entities\\reppat.Entities.csproj",
+        "projectName": "reppat.Entities",
+        "projectPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Entities\\reppat.Entities.csproj",
+        "packagesPath": "C:\\Users\\msuzen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\msuzen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/2QQd5ibagQ9Y7dQGWBfIaBQ3xHpdjfqkS2GPoCM6SZH1HIHzTX/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Core\\reppat.Core.csproj": {
+                "projectPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Core\\reppat.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.WebAPI\\reppat.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.WebAPI\\reppat.WebAPI.csproj",
+        "projectName": "reppat.WebAPI",
+        "projectPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.WebAPI\\reppat.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\msuzen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\msuzen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/2QQd5ibagQ9Y7dQGWBfIaBQ3xHpdjfqkS2GPoCM6SZH1HIHzTX/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Business\\reppat.Business.csproj": {
+                "projectPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Business\\reppat.Business.csproj"
+              },
+              "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Entities\\reppat.Entities.csproj": {
+                "projectPath": "C:\\Users\\msuzen\\Documents\\Visual Studio 2019\\Projects\\Examples\\reppat\\reppat.Entities\\reppat.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

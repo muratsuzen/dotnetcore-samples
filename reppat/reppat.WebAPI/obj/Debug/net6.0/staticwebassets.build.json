@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PPtDoVdjZircKwnr1Z7n11WAkYjriar65GO1xRbBnGI=",
+  "Source": "reppat.WebAPI",
+  "BasePath": "_content/reppat.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

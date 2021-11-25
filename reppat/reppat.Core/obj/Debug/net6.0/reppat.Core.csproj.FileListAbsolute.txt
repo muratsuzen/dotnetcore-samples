@@ -1,0 +1,12 @@
+C:\Users\msuzen\Documents\Visual Studio 2019\Projects\Examples\reppat\reppat.Core\bin\Debug\net6.0\reppat.Core.deps.json
+C:\Users\msuzen\Documents\Visual Studio 2019\Projects\Examples\reppat\reppat.Core\bin\Debug\net6.0\reppat.Core.dll
+C:\Users\msuzen\Documents\Visual Studio 2019\Projects\Examples\reppat\reppat.Core\bin\Debug\net6.0\ref\reppat.Core.dll
+C:\Users\msuzen\Documents\Visual Studio 2019\Projects\Examples\reppat\reppat.Core\bin\Debug\net6.0\reppat.Core.pdb
+C:\Users\msuzen\Documents\Visual Studio 2019\Projects\Examples\reppat\reppat.Core\obj\Debug\net6.0\reppat.Core.csproj.AssemblyReference.cache
+C:\Users\msuzen\Documents\Visual Studio 2019\Projects\Examples\reppat\reppat.Core\obj\Debug\net6.0\reppat.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msuzen\Documents\Visual Studio 2019\Projects\Examples\reppat\reppat.Core\obj\Debug\net6.0\reppat.Core.AssemblyInfoInputs.cache
+C:\Users\msuzen\Documents\Visual Studio 2019\Projects\Examples\reppat\reppat.Core\obj\Debug\net6.0\reppat.Core.AssemblyInfo.cs
+C:\Users\msuzen\Documents\Visual Studio 2019\Projects\Examples\reppat\reppat.Core\obj\Debug\net6.0\reppat.Core.csproj.CoreCompileInputs.cache
+C:\Users\msuzen\Documents\Visual Studio 2019\Projects\Examples\reppat\reppat.Core\obj\Debug\net6.0\reppat.Core.dll
+C:\Users\msuzen\Documents\Visual Studio 2019\Projects\Examples\reppat\reppat.Core\obj\Debug\net6.0\ref\reppat.Core.dll
+C:\Users\msuzen\Documents\Visual Studio 2019\Projects\Examples\reppat\reppat.Core\obj\Debug\net6.0\reppat.Core.pdb
