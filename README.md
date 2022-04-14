@@ -6,3 +6,4 @@
  - ASP.NET Core 3.1 Web API - Swagger Kullanımı (aspnetcore-webapi-swagger)
  - Docker SQL Server ile .Net Core Web API CRUD İşlemleri (docker-web-api)
  - .NET Core ile Repository Pattern Kullanımı (reppat)
+ - ASP.NET Core MVC ile Çoklu Dil Seçeneği Ekleme (multilanguage)
