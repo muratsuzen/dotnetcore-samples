@@ -5,3 +5,4 @@
  - ASP.NET Core 3.1 Web API - JWT Authentication Kullanımı (aspnetcore-3-1-web-api-jwt)
  - ASP.NET Core 3.1 Web API - Swagger Kullanımı (aspnetcore-webapi-swagger)
  - Docker SQL Server ile .Net Core Web API CRUD İşlemleri (docker-web-api)
+ - .NET Core ile Repository Pattern Kullanımı (reppat)
